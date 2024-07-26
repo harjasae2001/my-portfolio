@@ -25,6 +25,8 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import avtechfin from "./company/avtechfin.png";
+import sitara from "./company/sitara.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -54,6 +56,8 @@ export {
   threejs,
   meta,
   shopify,
+  avtechfin,
+  sitara,
   starbucks,
   tesla,
   carrent,
