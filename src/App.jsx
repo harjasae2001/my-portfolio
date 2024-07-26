@@ -8,6 +8,7 @@ import {
   Tech,
   Works,
   StarsCanvas,
+  Footer
 } from "./components"
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
           <Contact />
           <StarsCanvas />
         </div>
+        <Footer />
       </div>
     </BrowserRouter>
   );
